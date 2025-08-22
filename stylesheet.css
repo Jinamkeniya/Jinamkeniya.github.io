@@ -2376,7 +2376,7 @@ img {
 }
 
 .big-image-section.about-me-header {
-    background-image: url(images/front.png);
+    background-image: url(images/front.webp);
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: contain;

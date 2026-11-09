@@ -2974,6 +2974,18 @@ img {
     margin-top: 10px
 }
 
+.project_link {
+    color: #777;
+    font-size: 14px;
+    font-style: italic;
+    text-decoration: none;
+}
+
+.project_link:hover {
+    color: #333;
+    text-decoration: underline;
+}
+
 .row_pub {
     border-top: 1px solid #0000002e;
     padding-bottom: 5px;
